@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1k29mS16bo6JKiniPKl0TehWta4SbCtXt
 """
 
-!pip install flask requests google-generativeai gunicorn
-
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile requirements.txt
 # flask
